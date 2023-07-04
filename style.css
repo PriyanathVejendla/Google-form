@@ -1,0 +1,81 @@
+.container {
+    background-color: lightgray;
+    background-size: cover;
+}
+
+.main-image {
+    height: 100px;
+    border-radius: 10px;
+}
+
+.heading_container{
+    border-radius: 10px;
+    background-color: white ;
+    padding: 3px;
+
+}
+
+.heading{
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+    color: Black;
+    width: 100vw;
+    padding-left: 10px;
+}
+
+.para{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: black;
+    padding-left: 10px;
+}
+
+.hr{
+    height: 3px;
+    background-color: black;
+}
+
+.gmail{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button{
+    padding-left: 25px;
+    color: blue;
+}
+
+.indi{
+    color: red;
+}
+
+.details-container{
+    border-radius: 10px;
+    background-color: white ;
+    padding: 3px;
+    margin: 7px 0px;
+}
+
+.details-heading{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: black;
+}
+
+.details-container-bottom{
+    border-radius: 10px;
+    background-color: white ;
+    padding: 3px;
+    margin-bottom: 10px;
+}
+
+.submit-button{
+    background-color: gray;
+    color: black;
+    border-color: gray;
+    height: 50px;
+    width: 100px;
+    border-radius: 3px;
+}
